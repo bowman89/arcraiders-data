@@ -44,6 +44,10 @@
   "rarity": "Common",
   "value": 840,
   "weightKg": 7,
+  "upgradeCost": {
+    "metal_parts": 8,
+    "plastic_parts": 10
+  },
   "recyclesInto": {
     "plastic_parts": 6,
     "rubber_parts": 6
