@@ -95,6 +95,10 @@
       "value": "2m"
     }
   },
+  "recipe": {
+    "synthesized_fuel": 1,
+    "explosive_compound": 1
+  },
   "recyclesInto": {
     "crude_explosives": 2
   },
